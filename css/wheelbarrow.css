@@ -4,6 +4,7 @@ html {
 
 img {
   position: relative;
+  background-position: bottom;
   z-index: 11;
   cursor: pointer;
 }
