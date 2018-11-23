@@ -3,7 +3,7 @@
 Help collect all the kittens into the wheelbarrow using CSS selectors.
 
 ## Steps
-
+Pass
 
 ## Tasks for LearnIDE Environment Users
 
